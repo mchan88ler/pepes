@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "Standard&Pepe Light Nextjs",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "Standard&Pepes"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": false,
+    "label": "DAO",
+    "link": "#DAO"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Celebration of both the memecoin culture and the principles of traditional finance",
+    "copyright": ""
+  },
+
+  "metadata": {
+    "meta_author": "Standard & Pepe",
+    "meta_image": "/images/banner.png",
+    "meta_description": ""
+  }
+}
